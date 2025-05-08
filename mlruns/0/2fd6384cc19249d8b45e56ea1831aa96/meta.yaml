@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2fd6384cc19249d8b45e56ea1831aa96/artifacts
+end_time: 1746643170037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fd6384cc19249d8b45e56ea1831aa96
+run_name: intrigued-trout-85
+run_uuid: 2fd6384cc19249d8b45e56ea1831aa96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746643169957
+status: 3
+tags: []
+user_id: Sande

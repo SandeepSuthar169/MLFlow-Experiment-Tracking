@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/71912f232884429da88a0610a0dd3065/artifacts
+end_time: 1746680773668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71912f232884429da88a0610a0dd3065
+run_name: sedate-fish-0
+run_uuid: 71912f232884429da88a0610a0dd3065
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746680773581
+status: 3
+tags: []
+user_id: Sande

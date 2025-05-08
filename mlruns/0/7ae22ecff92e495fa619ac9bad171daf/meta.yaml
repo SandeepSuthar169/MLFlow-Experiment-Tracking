@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7ae22ecff92e495fa619ac9bad171daf/artifacts
+end_time: 1746682212788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ae22ecff92e495fa619ac9bad171daf
+run_name: useful-shad-62
+run_uuid: 7ae22ecff92e495fa619ac9bad171daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746682212220
+status: 3
+tags: []
+user_id: Sande

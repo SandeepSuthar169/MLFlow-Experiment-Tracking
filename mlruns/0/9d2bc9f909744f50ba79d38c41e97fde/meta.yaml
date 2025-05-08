@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9d2bc9f909744f50ba79d38c41e97fde/artifacts
+end_time: 1746682023676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d2bc9f909744f50ba79d38c41e97fde
+run_name: burly-frog-425
+run_uuid: 9d2bc9f909744f50ba79d38c41e97fde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746682022356
+status: 4
+tags: []
+user_id: Sande
