@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785632532963512781/eb4f04c7f6fb40b1b44874d6ac6544dd/artifacts
+end_time: 1746684689177
+entry_point_name: ''
+experiment_id: '785632532963512781'
+lifecycle_stage: active
+run_id: eb4f04c7f6fb40b1b44874d6ac6544dd
+run_name: receptive-bird-97
+run_uuid: eb4f04c7f6fb40b1b44874d6ac6544dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746684681818
+status: 3
+tags: []
+user_id: Sande

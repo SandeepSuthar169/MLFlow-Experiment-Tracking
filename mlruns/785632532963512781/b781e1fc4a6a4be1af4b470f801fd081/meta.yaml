@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/785632532963512781/b781e1fc4a6a4be1af4b470f801fd081/artifacts
+end_time: 1746683136232
+entry_point_name: ''
+experiment_id: '785632532963512781'
+lifecycle_stage: active
+run_id: b781e1fc4a6a4be1af4b470f801fd081
+run_name: puzzled-gnat-79
+run_uuid: b781e1fc4a6a4be1af4b470f801fd081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746683135796
+status: 3
+tags: []
+user_id: Sande
