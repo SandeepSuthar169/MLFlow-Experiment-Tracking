@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/874447217232699391/6abc89e4fc374fc2807289ed4068d4ae/artifacts
+end_time: 1746686425206
+entry_point_name: ''
+experiment_id: '874447217232699391'
+lifecycle_stage: active
+run_id: 6abc89e4fc374fc2807289ed4068d4ae
+run_name: sneaky-midge-398
+run_uuid: 6abc89e4fc374fc2807289ed4068d4ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746686420253
+status: 3
+tags: []
+user_id: Sande
