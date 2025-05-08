@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724729758959284366/2550438ed15d4aaeb7e462a3d542747b/artifacts
+end_time: 1746705551446
+entry_point_name: ''
+experiment_id: '724729758959284366'
+lifecycle_stage: active
+run_id: 2550438ed15d4aaeb7e462a3d542747b
+run_name: able-flea-52
+run_uuid: 2550438ed15d4aaeb7e462a3d542747b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746705526232
+status: 3
+tags: []
+user_id: Sande

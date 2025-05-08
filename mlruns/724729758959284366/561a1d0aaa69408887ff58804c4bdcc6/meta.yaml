@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724729758959284366/561a1d0aaa69408887ff58804c4bdcc6/artifacts
+end_time: 1746705551446
+entry_point_name: ''
+experiment_id: '724729758959284366'
+lifecycle_stage: active
+run_id: 561a1d0aaa69408887ff58804c4bdcc6
+run_name: invincible-hog-998
+run_uuid: 561a1d0aaa69408887ff58804c4bdcc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746705526232
+status: 3
+tags: []
+user_id: Sande

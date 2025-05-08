@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724729758959284366/1ab4c07c411845b8b18c49e55eca2e69/artifacts
+end_time: 1746705551446
+entry_point_name: ''
+experiment_id: '724729758959284366'
+lifecycle_stage: active
+run_id: 1ab4c07c411845b8b18c49e55eca2e69
+run_name: melodic-panda-233
+run_uuid: 1ab4c07c411845b8b18c49e55eca2e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746705526232
+status: 3
+tags: []
+user_id: Sande

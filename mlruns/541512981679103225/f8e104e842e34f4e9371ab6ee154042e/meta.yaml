@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/541512981679103225/f8e104e842e34f4e9371ab6ee154042e/artifacts
+end_time: 1746705294000
+entry_point_name: ''
+experiment_id: '541512981679103225'
+lifecycle_stage: active
+run_id: f8e104e842e34f4e9371ab6ee154042e
+run_name: outer
+run_uuid: f8e104e842e34f4e9371ab6ee154042e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746705289935
+status: 4
+tags: []
+user_id: Sande
